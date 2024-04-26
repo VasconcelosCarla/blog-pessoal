@@ -17,7 +17,7 @@ html {
 header {
     background-color: #beaed1;
     color: rgb(246, 200, 255);
-    padding: 20px;
+    padding: 2px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,17 +32,17 @@ header img {
     width: 150px;
     height: 150px;
     object-fit: cover;
-    margin-right: 20px; 
+    margin-right: 10px; 
 }
 nav {
     background-color: #967499;
     color: white;
     text-align: center;
     padding: 10px;
-    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.363);
+    box-shadow: 3px 5px 10px rgba(73, 5, 129, 0.795);
     position: fixed;
     width: 100%;
-    top: 220px;
+    top: 190px;
     z-index: 1000;
 }
 nav a {
